@@ -1,4 +1,4 @@
-var myApp = angular.module('myRegApp', [ngRoute]);
+var myApp = angular.module('myApp', [ngRoute]);
 
 /*myApp.controller('regAppController', ['$scope', function($scope){
 	$scope.message="Welcome to access";  
